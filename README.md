@@ -10,9 +10,9 @@ I live in the vibrant neighborhood of **Mandawali Fazalpur, Delhi, India**, surr
 - **Arduino Library Development** – Tools for makers, educators, and innovators.
 - **Advanced Python Programming** – From data analysis to automation, I leverage Python’s versatility to deliver efficient, impactful solutions.
 
-## 🎬 YouTube Channels
-- [HEROBRINE PIXEL](https://www.youtube.com/@HEROBRINEPIXEL) – My main channel featuring tutorials, project showcases, and more.
-- [SQUARED MEDIA](https://www.youtube.com/@SQUARED-MEDIA) – Minecraft-themed movies and creative content for fans of all ages!
+## 🎬 YouTube and GitHub Channels
+- [HEROBRINE PIXEL](https://www.github.com/@HEROBRINEPIXEL) – My main channel featuring tutorials, project showcases, and more is on GitHub.
+- [SQUARED MEDIA](https://www.youtube.com/@SQUARED-MEDIA) – Minecraft-themed movies and creative content for fans of all ages which is on YouTube!
 
 ## 🤝 Let's Connect!
 I’m always open to:
