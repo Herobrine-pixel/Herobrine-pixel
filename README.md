@@ -1,5 +1,5 @@
 # HEROBRINE-PIXEL
-## 👋 Hi, I'm HEROBRINE SHAH (aka HEROBRINE PIXEL)!
+## 👋 Hi, I'm HEROBRINE BENŃ (aka HEROBRINE PIXEL)!
 
 Welcome to my GitHub page! I’m passionate about developing **Arduino libraries** that empower both hobbyists and seasoned developers to bring their creative ideas to life. Whether you’re a beginner starting your first project or an experienced maker seeking robust tools, my libraries prioritize **ease of use** and **versatility**.
 
