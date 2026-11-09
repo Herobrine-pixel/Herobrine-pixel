@@ -4,7 +4,7 @@
 Welcome to my GitHub page! I’m passionate about developing **Arduino libraries** that empower both hobbyists and seasoned developers to bring their creative ideas to life. Whether you’re a beginner starting your first project or an experienced maker seeking robust tools, my libraries prioritize **ease of use** and **versatility**.
 
 ## 🌏 About Me
-Actually my real name is **Estellicx** and I am a student studying in **TASIS England School** in **10th* .
+Actually my real name is **Estellicx** and I am a student studying in **TASIS England School** in **12th** .
 I live in the vibrant neighborhood of **Bristol**, surrounded by a community of innovative minds and creative spirit. I love connecting with fellow creators and tech enthusiasts. If you’re interested in collaboration, need advice on technical challenges, or just want to chat about technology, feel free to reach out!
 
 ## 🛠️ My Skills
